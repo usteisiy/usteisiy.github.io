@@ -1,0 +1,13 @@
+{
+"companyName": "AlexMano",
+"productName": "Once on New Year's Eve (Rus) Ver. 1.1",
+"dataUrl": "05.01.2018 web-1.1.data.unityweb",
+"asmCodeUrl": "05.01.2018 web-1.1.asm.code.unityweb",
+"asmMemoryUrl": "05.01.2018 web-1.1.asm.memory.unityweb",
+"asmFrameworkUrl": "05.01.2018 web-1.1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
